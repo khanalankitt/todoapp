@@ -85,8 +85,8 @@ function Hero() {
             <div className="footer">
                 <footer>
                     <p>Connect :</p>
-                    <a href="www.facebook.com">Facebook</a>&nbsp;
-                    <a href="www.github.com">Github</a>
+                    <a href="https://www.facebook.com/khanalankitt" target="_blank">Facebook&#8599;</a>&nbsp;
+                    <a href="https://www.github.com/khanalankitt"   target="_blank">Github&#8599;</a>
                 </footer>
             </div>
         </div>
