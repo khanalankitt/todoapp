@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/khanalankitt.github.io/todoapp/static/css/main.bb1d99d4.css",
+    "main.js": "/khanalankitt.github.io/todoapp/static/js/main.2e2fbe57.js",
+    "static/js/787.63e47474.chunk.js": "/khanalankitt.github.io/todoapp/static/js/787.63e47474.chunk.js",
+    "index.html": "/khanalankitt.github.io/todoapp/index.html",
+    "main.bb1d99d4.css.map": "/khanalankitt.github.io/todoapp/static/css/main.bb1d99d4.css.map",
+    "main.2e2fbe57.js.map": "/khanalankitt.github.io/todoapp/static/js/main.2e2fbe57.js.map",
+    "787.63e47474.chunk.js.map": "/khanalankitt.github.io/todoapp/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb1d99d4.css",
+    "static/js/main.2e2fbe57.js"
+  ]
+}
