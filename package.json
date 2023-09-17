@@ -1,6 +1,6 @@
 {
   "homepage":"https://khanalankitt.github.io/todoapp",
-  "name": "todo",
+  "name": "todoapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
